@@ -19,7 +19,7 @@ Soft Totals: \
 ![Soft Totals](https://josephmilici.com/softTable.png)
 
 
-There are also unit tests created that you may use, along with dev docs that may be generated. 
+There are also unit tests, along with dev docs that may be generated. 
 Have fun playing :)
 
 Credits: Joseph Milici
