@@ -6,7 +6,7 @@ There are a few different AI players that can be added/removed from the game `Hu
 The menu looks as such: \
 ![Main menu](https://www.josephmilici.com/terminal.png)
 
-One of the most unique parts of this program is the Monte Carlo Player/Table. The game of blackjack is solved, and the solved state looks like this:
+One of the most unique parts of this program is the Monte Carlo Player/Table. The game of blackjack is solved, and the solved state looks like this: \
 ![Solved State](https://www.josephmilici.com/blackjackSolved.png)
 
 The program predicts the probability of a variety of outcomes at every given game state to generate a highly accurate table. Increasing the number of tests increases the accuracy.
